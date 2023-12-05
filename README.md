@@ -45,13 +45,13 @@ My growing stack includes:
 
 > An eCommerce app using the MERN stack
 
-## Hobbies
+## What I'm into
 
 ⚽ Football  
 🎧 Guitar, gigs and music production  
 🎮 Gaming  
 
-### How to reach me
+## How to reach me
 
 [Portfolio](https://jamiebarlowcodes-eb121b8a3524.herokuapp.com/)  
 [LinkedIn](https://www.linkedin.com/in/jamie-barlow-2b4b3648/)  
