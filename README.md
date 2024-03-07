@@ -26,7 +26,11 @@ My growing stack includes:
       <td><img width="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/> Git  </td>
       <td><img width="20" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/> Mocha.js  </td>
 		</tr>
-	</table>
+	<tr>
+		<td><img width="20" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/> Jest  </td>
+		<td><img width="20" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/> Vitest  </td>
+	</tr>
+ </table>
 </div>
 
 ## Currently learning
@@ -40,7 +44,7 @@ My growing stack includes:
 
 > A local healthcare organisation's landing page / resources using React and Contentful Headless CMS
 
-> An eCommerce app using the MERN stack
+> A further full-stack CRUD app using the MERN stack
 
 ## What I'm into
 
