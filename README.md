@@ -1,6 +1,6 @@
 # Hi there, I'm Jamie 👋
 
-I'm a driven, self-trained full-stack developer, who has developed web applications both in support of independent clients, and for my current organisation - you can see my work on my portfolio site below.
+I'm a driven, self-trained full-stack developer, who has developed web applications both in support of independent clients, and for my current organisation - you can see my work on my portfolio site below. I currently work with the MERN stack (MongoDB, Express, React, Node.js), and have built test suites for my applications using Mocha, Jest and Vitest.
 
 As an experienced specialist in project management and training, I have well-rounded strengths in problem-solving, communication, relationship management, organisation, attention-to-detail and continual process innovation, all within a demanding service-delivery environment.
 
