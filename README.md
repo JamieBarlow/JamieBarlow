@@ -51,6 +51,7 @@ My growing stack includes:
 
 ⚽ Football  
 🎧 Guitar, gigs and music production  
+🤔 Philosophy, Politics  
 🎮 Gaming  
 
 ## How to reach me
