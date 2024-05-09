@@ -1,5 +1,9 @@
 # Hi there, I'm Jamie 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/JayBarls?logo=twitter&style=flat-square)](https://twitter.com/JayBarls)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jamie-barlow-2b4b3648/)
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://jamiebarlowcodes-eb121b8a3524.herokuapp.com/)
+
 I'm a driven, self-trained full-stack developer, who has developed web applications both in support of independent clients, and for my current organisation - you can see my work on my portfolio site below. I currently work with the MERN stack (MongoDB, Express, React, Node.js), and have built test suites for my applications using Mocha, Jest and Vitest.
 
 As an experienced specialist in project management and training, I have well-rounded strengths in problem-solving, communication, relationship management, organisation, attention-to-detail and continual process innovation, all within a demanding service-delivery environment.
