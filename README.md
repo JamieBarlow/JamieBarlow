@@ -9,7 +9,8 @@ I'm a driven, self-trained full-stack developer, who has developed web applicati
 
 As an experienced specialist in project management and training, I have well-rounded strengths in problem-solving, communication, relationship management, organisation, attention-to-detail and continual process innovation, all within a demanding service-delivery environment.
 
-See my dev articles: [https://dev.to/jaybarls](https://dev.to/jaybarls)
+See my dev articles: 
+- [Exploring web components (and revisiting some JS fundamentals)](https://dev.to/jaybarls/exploring-web-components-and-revisiting-some-js-fundamentals-57e1)
 
 ## My tech stack
 
