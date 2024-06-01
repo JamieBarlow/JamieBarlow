@@ -48,17 +48,17 @@ My growing stack includes:
 
 ## Currently working on
 
-> Refactoring [My Portfolio](https://jamiebarlowcodes-eb121b8a3524.herokuapp.com/) and my [RESTful CRUD application](https://github.com/JamieBarlow/myYelpCamp) using React components
+> Updating the interface for my [Schillinger Rhythm Generator](https://jamiebarlowcodes-eb121b8a3524.herokuapp.com/projects/schillingerRtm) app using custom web components and the [Shoelace](https://shoelace.style/) web component library;
 
-> A local healthcare organisation's landing page / resources using React and Contentful Headless CMS
+> A local healthcare organisation's landing page / resources using React and Contentful Headless CMS;
 
-> A further full-stack CRUD app using the MERN stack
+> A further full-stack CRUD application (at numerous users' request!) displaying information and reviews for accessible public bathrooms. This makes use of the MERN stack and the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) from [Open Street Map](https://www.openstreetmap.org/), which is a brilliant community-driven source of geographical and location-based data.
 
 ## What I'm into
 
 ⚽ Football  
 🎧 Guitar, gigs and music production  
-🤔 Philosophy, Politics  
+🤔 Philosophy, Current affairs 
 🎮 Gaming  
 
 ## How to reach me
