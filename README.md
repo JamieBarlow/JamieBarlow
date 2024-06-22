@@ -63,6 +63,6 @@ My growing stack includes:
 
 ## How to reach me
 
-[Portfolio](https://jamiebarlowcodes-eb121b8a3524.herokuapp.com/)  
+[Portfolio](jamiebarlow.dev)  
 [LinkedIn](https://www.linkedin.com/in/jamie-barlow-2b4b3648/)  
 [Twitter](https://twitter.com/JayBarls)
