@@ -43,16 +43,14 @@ My growing stack includes:
 
 ## Currently learning
 
-<img width="20" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/> Docker  
+<img width="20" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/> Next.js  
 <img width="20" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/> Redux
 
 ## Currently working on
 
 > Updating the interface for my [Schillinger Rhythm Generator](https://jamiebarlowcodes-eb121b8a3524.herokuapp.com/projects/schillingerRtm) app using custom web components and the [Shoelace](https://shoelace.style/) web component library;
 
-> A local healthcare organisation's landing page / resources using React and Contentful Headless CMS;
-
-> A further full-stack CRUD application (at numerous users' request!) displaying information and reviews for accessible public bathrooms. This makes use of the MERN stack and the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) from [Open Street Map](https://www.openstreetmap.org/), which is a brilliant community-driven source of geographical and location-based data.
+> A full-stack CRUD application (at the request of numerous users) displaying information and reviews for public bathrooms, with an emphasis on accessibility and community collaboration using local knowledge. This makes use of the MERN stack and the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) from [Open Street Map](https://www.openstreetmap.org/), which is a brilliant community-driven source of geographical and location-based data.
 
 ## What I'm into
 
