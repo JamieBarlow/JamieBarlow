@@ -52,6 +52,8 @@ My growing stack includes:
 
 > A full-stack CRUD application (at the request of numerous users) displaying information and reviews for public bathrooms, with an emphasis on accessibility and community collaboration using local knowledge. This makes use of the MERN stack and the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) from [Open Street Map](https://www.openstreetmap.org/), which is a brilliant community-driven source of geographical and location-based data.
 
+>  An expenses tracker using the React UI and state management (plenty of commercial apps out there that do this, but I wanted something I could tailor more to my own needs, with custom filtering options).
+
 ## What I'm into
 
 ⚽ Football  
