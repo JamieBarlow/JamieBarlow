@@ -60,7 +60,7 @@ My growing stack includes:
 🏎️ Formula 1  
 🎧 Guitar, gigs and music production  
 🤔 Philosophy, Current affairs  
-☕ Coffee
+☕ Coffee  
 🎮 Gaming  
 
 ## How to reach me
