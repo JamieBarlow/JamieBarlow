@@ -56,9 +56,11 @@ My growing stack includes:
 
 ## What I'm into
 
-⚽ Football  
+⚽ Football
+🏎️ Formula 1
 🎧 Guitar, gigs and music production  
 🤔 Philosophy, Current affairs  
+☕ Coffee
 🎮 Gaming  
 
 ## How to reach me
